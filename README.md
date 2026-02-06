@@ -15,7 +15,7 @@ I love creating projects, learning new technologies, and improving my skills eve
 
 🧠 Skills: C++, Python, HTML, CSS, JavaScript
 
-🛠 Built projects like Tic-Tac-Toe Game, Issue Generator Tool, and more
+🛠 Built real-world projects during internships
 
 🎯 Goal: Become internship-ready in the next 5–6 months
 
@@ -27,3 +27,17 @@ Languages: C++, Python, JavaScript
 Frontend: HTML, CSS
 Tools: Git, VS Code, GitHub
 Other: Problem Solving, Debugging, Teamwork
+
+📌 Featured Projects
+🔹 Candidate Evaluation Portal (Internship Project)
+
+A web-based portal designed to help HR teams upload MCQs, conduct online evaluations, and track candidate performance using a dashboard.
+Includes:
+
+MCQ upload
+
+Central database storage
+
+Real-time result tracking
+
+Categorization of candidate status (Passed / Failed / Not Attempted)
